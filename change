@@ -1,7 +1,7 @@
 <p><b>CHANGELOG</p>
-31/08/2015 -240mb </b><br>
+02/09/2015 -230mb </b><br>
 <font color="#ff0000">Update recommended! </font><br>
 -Sources updated <br>
--Tweaks updated <br>
--Added some build.prop tweaks <br>
--GPS fixed <br>
+-A lot of kernel changes <br>
+-Attempt to enable selinux <br>
+-Another attempt to fix offline charging <br>
