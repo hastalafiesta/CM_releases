@@ -1,7 +1,6 @@
 <p><b>CHANGELOG</p>
-02/09/2015 -230mb </b><br>
+09/09/2015 -230mb </b><br>
 <font color="#ff0000">Update recommended! </font><br>
 -Sources updated <br>
--A lot of kernel changes <br>
--Attempt to enable selinux <br>
--Another attempt to fix offline charging <br>
+-Interactive as default gov <br>
+-Tweaks updated <br>
